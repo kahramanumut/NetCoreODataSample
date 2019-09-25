@@ -1,0 +1,14 @@
+D:\Umut\NetCore\ODataSample\bin\Debug\netcoreapp2.2\ODataSample.deps.json
+D:\Umut\NetCore\ODataSample\bin\Debug\netcoreapp2.2\ODataSample.runtimeconfig.json
+D:\Umut\NetCore\ODataSample\bin\Debug\netcoreapp2.2\ODataSample.runtimeconfig.dev.json
+D:\Umut\NetCore\ODataSample\bin\Debug\netcoreapp2.2\ODataSample.dll
+D:\Umut\NetCore\ODataSample\bin\Debug\netcoreapp2.2\ODataSample.pdb
+D:\Umut\NetCore\ODataSample\obj\Debug\netcoreapp2.2\ODataSample.csprojAssemblyReference.cache
+D:\Umut\NetCore\ODataSample\obj\Debug\netcoreapp2.2\ODataSample.csproj.CoreCompileInputs.cache
+D:\Umut\NetCore\ODataSample\obj\Debug\netcoreapp2.2\ODataSample.RazorAssemblyInfo.cache
+D:\Umut\NetCore\ODataSample\obj\Debug\netcoreapp2.2\ODataSample.RazorAssemblyInfo.cs
+D:\Umut\NetCore\ODataSample\obj\Debug\netcoreapp2.2\ODataSample.AssemblyInfoInputs.cache
+D:\Umut\NetCore\ODataSample\obj\Debug\netcoreapp2.2\ODataSample.AssemblyInfo.cs
+D:\Umut\NetCore\ODataSample\obj\Debug\netcoreapp2.2\ODataSample.RazorTargetAssemblyInfo.cache
+D:\Umut\NetCore\ODataSample\obj\Debug\netcoreapp2.2\ODataSample.dll
+D:\Umut\NetCore\ODataSample\obj\Debug\netcoreapp2.2\ODataSample.pdb
